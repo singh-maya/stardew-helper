@@ -1,0 +1,527 @@
+{
+  "Fried Egg": {
+    "ingredients": {
+      "egg": 1
+    }
+  },
+  "Omelet": {
+    "ingredients": {
+      "egg": 1,
+      "milk": 1
+    }
+  },
+  "Salad": {
+    "ingredients": {
+      "leek": 1,
+      "dandelion": 1,
+      "vinegar": 1
+    }
+  },
+  "Cheese Cauliflower": {
+    "ingredients": {
+      "cauliflower": 1,
+      "cheese": 1
+    }
+  },
+  "Baked Fish": {
+    "ingredients": {
+      "sunfish": 1,
+      "bream": 1,
+      "wheat flour": 1
+    }
+  },
+  "Parsnip Soup": {
+    "ingredients": {
+      "parsnip": 1,
+      "milk": 1,
+      "vinegar": 1
+    }
+  },
+  "Vegetable Medley": {
+    "ingredients": {
+      "tomato": 1,
+      "beet": 1
+    }
+  },
+  "Complete Breakfast": {
+    "ingredients": {
+      "fried egg": 1,
+      "milk": 1,
+      "hashbrowns": 1,
+      "pancakes": 1
+    }
+  },
+  "Fried Calamari": {
+    "ingredients": {
+      "squid": 1,
+      "wheat flour": 1,
+      "oil": 1
+    }
+  },
+  "Strange Bun": {
+    "ingredients": {
+      "wheat flour": 1,
+      "periwinkle": 1,
+      "void mayonnaise": 1
+    }
+  },
+  "Lucky Lunch": {
+    "ingredients": {
+      "sea cucumber": 1,
+      "tortilla": 1,
+      "blue jazz": 1
+    }
+  },
+  "Fried Mushroom": {
+    "common mushroom": 1,
+    "morel": 1,
+    "oil": 1
+  },
+  "Pizza": {
+    "ingredients": {
+      "wheat flour": 1,
+      "tomato": 1,
+      "cheese": 1
+    }
+  },
+  "Bean Hotpot": {
+    "ingredients": {
+      "green bean": 2
+    }
+  },
+  "Glazed Yams": {
+    "ingredients": {
+      "yam": 1,
+      "sugar": 1
+    }
+  },
+  "Carp Surprise": {
+    "ingredients": {
+      "carp": 4
+    }
+  },
+  "Hashbrowns": {
+    "ingredients": {
+      "potato": 1,
+      "oil": 1
+    }
+  },
+  "Pancakes": {
+    "ingredients": {
+      "wheat flour": 1,
+      "egg" : 1
+    }
+  },
+  "Salmon Dinner": {
+    "ingredients": {
+      "salmon": 1,
+      "amaranth": 1,
+      "kale" : 1
+    }
+  },
+  "Fish Taco": {
+    "ingredients": {
+      "tuna": 1,
+      "tortilla": 1,
+      "red cabbage": 1,
+      "mayonnaise": 1
+    }
+  },
+  "Crispy Bass": {
+    "ingredients": {
+      "largemouth bass": 1,
+      "wheat flour": 1,
+      "oil" : 1
+    }
+  },
+  "Pepper Poppers": {
+    "ingredients": {
+      "hot peppers": 1,
+      "cheese": 1
+    }
+  },
+  "Bread": {
+    "ingredients": {
+      "wheat flour": 1
+    }
+  },
+  "Tom Kha Soup": {
+    "ingredients": {
+      "coconut": 1,
+      "shrimp": 1,
+      "common mushroom": 1
+    }
+  },
+  "Trout Soup": {
+    "ingredients": {
+      "rainbow trout": 1,
+      "green algae": 1
+    }
+  },
+  "Chocolate Cake": {
+    "ingredients": {
+      "wheat flour": 1,
+      "sugar": 1,
+      "egg": 1
+    }
+  },
+  "Pink Cake": {
+    "ingredients": {
+      "melon": 1,
+      "wheat flour" : 1,
+      "sugar": 1,
+      "egg": 1
+    }
+  },
+  "Rhubarb Pie": {
+    "ingredients": {
+      "rhubarb": 1,
+      "wheat flour": 1,
+      "sugar": 1
+    }
+  },
+  "Cookie": {
+    "ingredients": {
+      "wheat flour": 1,
+      "sugar": 1,
+      "egg": 1
+    }
+  },
+  "Spaghetti": {
+    "ingredients": {
+      "wheat flour": 1,
+      "tomato": 1
+    }
+  },
+  "Fried Eel": {
+    "ingredients": {
+      "eel" : 1,
+      "oil": 1
+    }
+  },
+  "Spicy Eel": {
+    "ingredients": {
+      "eel": 1,
+      "hot pepper": 1
+    }
+  },
+  "Sashimi": {
+    "ingredients": {
+      "fish": 1
+    }
+  },
+  "Maki Roll": {
+    "ingredients": {
+      "fish": 1,
+      "seaweed": 1,
+      "rice": 1
+    }
+  },
+  "Tortilla": {
+    "ingredients": {
+      "corn" : 1
+    }
+  },
+  "Red Plate" : {
+    "ingredients": {
+      "red cabbage": 1,
+      "radish": 1
+    }
+  },
+  "Eggplant Parmesan" : {
+    "ingredients" : {
+      "eggplant": 1,
+      "tomato": 1
+    }
+  },
+  "Rice Pudding" : {
+    "ingredients" : {
+      "milk" : 1,
+      "sugar" : 1,
+      "rice": 1
+    }
+  },
+  "Ice Cream": {
+    "ingredients": {
+      "milk" : 1,
+      "sugar": 1
+    }
+  },
+  "Blueberry Tart" : {
+    "ingredients" : {
+      "blueberry" : 1,
+      "wheat flour": 1,
+      "sugar": 1,
+      "egg": 1
+    }
+  },
+  "Autumn's Bounty" : {
+    "ingredients" : {
+      "yam": 1,
+      "pumpkin": 1
+    }
+  },
+  "Pumpkin Soup": {
+    "ingredients": {
+      "pumpkin": 1,
+      "milk": 1
+    }
+  },
+  "Super Meal": {
+    "ingredients": {
+      "bok choy": 1,
+      "cranberries": 1,
+      "artichoke": 1
+    }
+  },
+  "Cranberry Sauce": {
+    "ingredients": {
+      "cranberries": 1,
+      "sugar": 1
+    }
+  },
+  "Stuffing": {
+    "ingredients": {
+      "bread": 1,
+      "cranberries": 1,
+      "hazelnut": 1
+    }
+  },
+  "Farmer's Lunch": {
+    "ingredients": {
+      "omelet": 1,
+      "parsnip": 1
+    }
+  },
+  "Survival Burger": {
+    "ingredients": {
+      "bread": 1,
+      "cave carrot": 1,
+      "eggplant": 1
+    }
+  },
+  "Dish O' The Sea": {
+    "ingredients": {
+      "sardine": 2,
+      "hashbrowns": 1
+    }
+  },
+  "Miner's Treat": {
+    "ingredients": {
+      "cave carrot": 2,
+      "sugar": 1,
+      "milk": 1
+    }
+  },
+  "Roots Platter": {
+    "ingredients": {
+      "cave carrot": 1,
+      "winter root": 1
+    }
+  },
+  "Triple Shot Espresso": {
+    "ingredients": {
+      "coffee": 3
+    }
+  },
+  "Seafoam Pudding": {
+    "ingredients": {
+      "flounder": 1,
+      "midnight carp": 1,
+      "squid ink": 1
+    }
+  },
+  "Algae Soup": {
+    "ingredients": {
+      "green algae": 4
+    }
+  },
+  "Pale Broth": {
+    "ingredients": {
+      "white algae": 2
+    }
+  },
+  "Plum Pudding": {
+    "ingredients": {
+      "wild plum": 2,
+      "wheat flour": 1,
+      "sugar": 1
+    }
+  },
+  "Artichoke Dip": {
+    "ingredients": {
+      "artichoke": 1,
+      "milk": 1
+    }
+  },
+  "Stir Fry": {
+    "ingredients": {
+      "cave carrot": 1,
+      "common mushroom": 1,
+      "kale": 1,
+      "oil": 1
+    }
+  },
+  "Roasted Hazelnuts": {
+    "ingredients": {
+      "hazelnut": 3
+    }
+  },
+  "Pumpkin Pie": {
+    "ingredients": {
+      "pumpkin": 1,
+      "wheat flour": 1,
+      "milk": 1,
+      "sugar": 1
+    }
+  },
+  "Radish Salad": {
+    "ingredients": {
+      "oil": 1,
+      "vinegar": 1,
+      "radish": 1
+    }
+  },
+  "Fruit Salad": {
+    "ingredients": {
+      "blueberry": 1,
+      "melon": 1,
+      "apricot": 1
+    }
+  },
+  "Blackberry Cobbler": {
+    "ingredients": {
+      "blackberry": 2,
+      "sugar": 1,
+      "wheat flour": 1
+    }
+  },
+  "Cranberry Candy": {
+    "ingredients": {
+      "cranberries": 1,
+      "apple": 1,
+      "sugar": 1
+    }
+  },
+  "Bruschetta": {
+    "ingredients": {
+      "bread": 1,
+      "oil": 1,
+      "tomato": 1
+    }
+  },
+  "Coleslaw": {
+    "ingredients": {
+      "red cabbage": 1,
+      "vinegar": 1,
+      "mayonnaise": 1
+    }
+  },
+  "Fiddlehead Risotto": {
+    "ingredients": {
+      "oil": 1,
+      "fiddlehead fern": 1,
+      "garlic": 1
+    }
+  },
+  "Poppyseed Muffin": {
+    "ingredients": {
+      "poppy": 1,
+      "wheat flour": 1,
+      "sugar": 1
+    }
+  },
+  "Chowder": {
+    "ingredients": {
+      "clam": 1,
+      "milk": 1
+    }
+  },
+  "Fish Stew": {
+    "ingredients": {
+      "crayfish": 1,
+      "mussel": 1,
+      "periwinkle": 1,
+      "tomato": 1
+    }
+  },
+  "Escargot": {
+    "ingredients": {
+      "snail": 1,
+      "garlic": 1
+    }
+  },
+  "Lobster Bisque": {
+    "ingredients": {
+      "lobster": 1,
+      "milk": 1
+    }
+  },
+  "Maple Bar": {
+    "ingredients": {
+      "maple syrup": 1,
+      "sugar": 1,
+      "wheat flour": 1
+    }
+  },
+  "Crab Cakes": {
+    "ingredients": {
+      "crab": 1,
+      "wheat flour": 1,
+      "egg": 1,
+      "oil": 1
+    }
+  },
+  "Shrimp Cocktail": {
+    "ingredients": {
+      "tomato": 1,
+      "shrimp": 1,
+      "wild horseradish": 1
+    }
+  },
+  "Ginger Ale": {
+    "ingredients": {
+      "ginger": 3,
+      "sugar": 1
+    }
+  },
+  "Banana Pudding": {
+    "ingredients": {
+      "banana": 1,
+      "milk": 1,
+      "sugar": 1
+    }
+  },
+  "Mango Sticky Rice": {
+    "ingredients": {
+      "mango": 1,
+      "coconut": 1,
+      "rice": 1
+    }
+  },
+  "Poi": {
+    "ingredients": {
+      "taro root": 4
+    }
+  },
+  "Tropical Curry": {
+    "ingredients": {
+      "coconut": 1,
+      "pineapple": 1,
+      "hot pepper": 1
+    }
+  },
+  "Squid Ink Ravioli": {
+    "ingredients": {
+      "squid ink": 1,
+      "wheat flour": 1,
+      "tomato": 1
+    }
+  },
+  "Moss Soup": {
+    "ingredients": {
+      "moss": 20
+    }
+  }
+
+}
