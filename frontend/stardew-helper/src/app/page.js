@@ -17,7 +17,7 @@ export default function Home() {
 	}, []);
 
 	return (
-		<div>
+		<div className="grid grid-cols-4 gap-4">
 			{allRecipes.map((dish) => (
 				<div key={dish.name}>
 					<DishTile name={dish.name} ingredients={dish.ingredients} />
