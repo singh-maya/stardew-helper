@@ -1,10 +1,11 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from typing import List
 import json
 
 
 class RecipeList(BaseModel):
-    recipe_list: list
+    recipe_list: List[str]
 
 
 app = FastAPI()
@@ -29,12 +30,10 @@ async def root(request: RecipeList):
     with open(file_path, "r") as file:
         data = json.load(file)
         total_ingredients = {}
-        for dish in request.recipe_list:
-            ingredients = data.get(dish, "").get("ingredients", {})
-            for ingredient, amount in ingredients.items():
-                total_ingredients[ingredient] = (
-                    total_ingredients.get(ingredient, 0) + amount
-                )
+        for dish in data:
+            if dish["name"] in request.recipe_list:
+                for ingredient, amount in dish["ingredients"].items():
+                    total_ingredients[ingredient] = total_ingredients.get(ingredient, 0) + amount
         print("Total ingredients needed:")
         for ingredient, amount in total_ingredients.items():
             print(f"{ingredient}: {amount}")
